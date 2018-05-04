@@ -3,14 +3,14 @@
 ## Branding Terms and Explanations:
 
 * Tessr
-    The name for the Dagchain Network.
+The name for the Dagchain Network.
 * Tessract
-    The 'Secret Smart Contracts'
+The 'Secret Smart Contracts'
 * Tessraction
-    A transaction made using Tessracts on the Tessr (Hyper) Network.
+A transaction made using Tessracts on the Tessr (Hyper) Network.
 * Tessring
-    Biometric Encryption Key Ring
+Biometric Encryption Key Ring
 * Tessellation
-    Refers to Parallel validated Tessractions confirmed on the network.
+Refers to Parallel validated Tessractions confirmed on the network.
 * TSRX
-    Erc20 Token used for crowdfunding not be confused with the Tessracts.
+Erc20 Token used for crowdfunding not be confused with the Tessracts.
