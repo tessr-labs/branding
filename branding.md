@@ -1,6 +1,6 @@
 # Tessr - Branding Guidelines
 
-## Branding Terms and Explainations:
+## Branding Terms and Explanations:
 
 * Tessr
     The name for the Dagchain Network.
